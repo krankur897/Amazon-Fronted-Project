@@ -1,0 +1,2 @@
+# Amazon-Fronted-Project
+A responsive Amazon-inspired frontend UI project built using HTML and CSS. This project focuses on clean UI design, layout structuring, and recreating core e-commerce interface elements such as product sections and navigation. Created to practice frontend development and improve HTML &amp; CSS skills.
